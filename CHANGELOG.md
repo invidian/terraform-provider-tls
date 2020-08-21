@@ -1,3 +1,9 @@
+## 2.2.1 (August 21, 2020)
+
+NEW FEATURES:
+
+* `tls_private_key` resource now supports ED25519 algorithm.
+
 ## 2.2.0 (July 24, 2020)
 
 NEW FEATURES:
